@@ -1,0 +1,15 @@
+table{
+    border: 1px solid black;
+}
+
+fieldset{
+    width: 500px;
+    color: red;
+    margin-bottom: 30px;
+}
+#logout
+{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
